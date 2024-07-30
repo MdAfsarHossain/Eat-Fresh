@@ -179,3 +179,37 @@
 .recipies-card:hover {
   transform: translateY(-10px);
 }
+
+/* Users Info */
+.user {
+  width: 100%;
+  padding: 80px;
+}
+
+.user-container {
+  width: 1070px;
+  margin: 0 auto;
+  padding: 50px 80px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.youtube h1,
+.instagram h1,
+.likes h1 {
+  font-size: 36px;
+  font-weight: 900;
+  margin-top: 10px;
+}
+
+.youtube p,
+.instagram p,
+.likes p {
+  font-size: 18px;
+  color: rgb(71, 70, 70);
+}
