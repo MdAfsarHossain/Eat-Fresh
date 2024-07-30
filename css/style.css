@@ -213,3 +213,24 @@
   font-size: 18px;
   color: rgb(71, 70, 70);
 }
+
+/* Footer */
+.footer {
+  width: 100%;
+  background-color: black;
+  padding: 80px;
+  text-align: center;
+}
+
+.footer-title {
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.eat {
+  color: tomato;
+}
+
+.footer-description {
+  color: lightgray;
+}
